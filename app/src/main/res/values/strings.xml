@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TheNewYorkTimes</string>
+
+    <string name="network_is_not_available">The network is not available</string>
+</resources>
